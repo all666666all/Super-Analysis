@@ -1,4 +1,4 @@
-# 🔍 Super Analysis - 博士级问题分析助手
+# 🔍 Super Analysis - 博士级问题分析助手 (还在全面优化调试)
 
 这是一个基于 Google Gemini AI 的系统化问题分析工具，帮助用户进行博士级别的问题分解与分析。
 
@@ -72,12 +72,3 @@ npm run preview
 - **AI 模型**：Google Gemini 2.5 Flash
 - **图表库**：Mermaid
 - **样式**：Tailwind CSS
-
-## 注意事项
-
-⚠️ **生产环境部署前请移除作弊菜单组件**
-
-🔒 **API 密钥安全**：
-- `.env` 文件已添加到 `.gitignore`
-- 不要将 API 密钥提交到版本控制
-- 生产环境请使用环境变量管理
