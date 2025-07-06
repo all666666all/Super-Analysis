@@ -1,0 +1,6 @@
+{
+  "name": "博士级问题分析助手",
+  "description": "一个 React 应用，引导用户完成系统化的问题分解和分析过程，并在每个阶段利用 Gemini API 提供智能辅助。",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
